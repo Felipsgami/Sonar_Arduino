@@ -6,7 +6,7 @@ Lista de Dispositivos:
 - 7 Jumpers Macho/Macho;
 - 1 Sensor de Ultrassom HC-SR04;
 - 1 Micro Servo Motor de 9g;
-- Alguns elásticos e um pedaço de papel para criação da base.
+- Alguns elásticos, cola quente, fita e um pedaço de papel para criação da base.
 
 Link para download do Processing: https://processing.org/download
 Link para download do Arduino IDE: https://www.arduino.cc/en/software
