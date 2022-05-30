@@ -5,7 +5,7 @@ Lista de Dispositivos:
 - 4 Jumpers Macho/Fêmea;
 - 7 Jumpers Macho/Macho;
 - 1 Sensor de Ultrassom HC-SR04;
-- 1 Micro Servo Motor de 9g;
+- 1 Micro Servo Motor;
 - Alguns elásticos, cola quente, fita e um pedaço de papel para criação da base.
 
 Link para download do Processing: https://processing.org/download
