@@ -20,7 +20,7 @@ void loop() {
   // gira o Servo Motor de 15 a 165 graus
   for(int i=15;i<=165;i++){  
   myServo.write(i);
-  delay(30);
+  delay(25);
   distance = calculateDistance();// Chama uma função para calcular a distância medida pelo sensor ultrassônico para cada grau
   
   Serial.print(i); // Envia o grau atual para a porta serial
